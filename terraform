@@ -9,3 +9,5 @@ resource "aws_lightsail_instance" "gitlab_test" {
     foo = "bar"
   }
 }
+
+Feature branch
